@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 Zdravo, Stefan Keleman!
 Zdravo i tebi!
-=======
-Zdravo, Stefan!
->>>>>>> stefan-keleman-test-grana
